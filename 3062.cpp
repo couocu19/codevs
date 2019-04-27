@@ -33,6 +33,6 @@ int main()
 	    }
 	}
 	if(t==0)
-	  printf("No solution£¡\n");
+	  printf("No solution! \n");
 	return 0;
 }

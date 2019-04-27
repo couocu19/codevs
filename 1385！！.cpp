@@ -21,7 +21,7 @@ int main()
    for(int i = first; i <= last; i++)
    {
          if(milk[i] == 1)
-		 {
+		 {                 
               if(num > ans2)
 			    ans2 = num;
               num = 0, sum++;
